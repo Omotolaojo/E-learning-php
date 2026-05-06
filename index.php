@@ -80,8 +80,8 @@
                         <div class="row justify-content-start">
                             <div class="col-sm-10 col-lg-8">
                                 <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Best Online Courses</h5>
-                                <h1 class="display-3 text-white animated slideInDown">Tola Technology Online Learning Platform</h1>
-                                <p class="fs-5 text-white mb-4 pb-2"> Here at Tola tech, we specialize on continuous integration and continuous Deployment using cloud technologies.</p>
+                                <h1 class="display-3 text-white animated slideInDown">Tola TechHub Online Learning Platform</h1>
+                                <p class="fs-5 text-white mb-4 pb-2"> At Tola TechHub, we turn beginners into cloud pros. learn how to build, deploy, and dominate with cloud technologies..</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Join Now</a>
                             </div>
